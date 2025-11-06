@@ -13,7 +13,7 @@ a {
 
 .hero {
     width: 100%;
-    height: 100hv;
+    height: 100vh;
     background: url(./images/port.jpg);
     background-size: cover;
 }
